@@ -1,4 +1,4 @@
-﻿
+BÀi viết được lấy từ https://github.com/codetoanbug/git-github-for-sysadmin﻿
 ## Git và Github cho sysadmin
 
 ### Mục lục
